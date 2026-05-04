@@ -1,0 +1,8 @@
+Package: com.yourname.micboard
+Name: MicBoard
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Soundboard mic injector
+Maintainer: You
+Section: Tweaks
+Depends: mobilesubstrate
